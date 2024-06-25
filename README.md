@@ -1,4 +1,4 @@
-![image](https://github.com/Nikitchov/nikitchov/assets/111116275/5fda37c4-9347-4652-abc9-a9a92472b8d5)<div align="center">
+<div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZwdmZoYmkyejZ1emtvYmQ2eHF0MzRqMnB0aTNmMTd4dmRtMXVoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp">
 </div>
 
