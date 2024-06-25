@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://i.giphy.com/3ov9jNziFTMfzSumAw.webp">
+  <img src="https://i.giphy.com/3ov9jNziFTMfzSumAw.webp">
 </div>
 
 ###
@@ -24,7 +24,7 @@
 <p align="left">Меня зовут Никита Батяев. 
 В данный момент рассматриваю для себя интересные вакансии в направлении frontend.
 Я разработчик уровня Junior.
-Мой основной стек: Javascript, React, HTML, CSS.
+Мой основной стек: Javascript, React, HTML, CSS, Next.js
 Для создания приложений я в основном использую библиотеку React, также имею небольшой опыт работы с Vue и Next.js. При работе с дизайн макетами я использую Figma.
 Я изучал React на различных платформах, таких как: Coursera, Udemy, HTML Academy, Hexlet, Stepik и другие. У меня есть сертификаты о прохождении курсов.
 
@@ -69,11 +69,6 @@
   <img src="https://streak-stats.demolab.com?user=nikitchov&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitchov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  </div>
 
 ###
 
